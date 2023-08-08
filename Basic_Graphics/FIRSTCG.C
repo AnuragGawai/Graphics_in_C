@@ -1,3 +1,4 @@
+// program to draw for simple line, rectangle,circle,ellipse 
 #include<graphics.h>
 #include<stdio.h>
 #include<conio.h>
